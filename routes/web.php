@@ -13,6 +13,14 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+
+Route::get('/','HomeController@getLayout');
+
+Route::get('/category','HomeController@getCategory');
+
+Route::get('/product-page','HomeController@getProductPage');
+
+Route::get('/checkout','HomeController@getCheckOut');
+
+Route::get('/cart','HomeController@getCart');
+
