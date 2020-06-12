@@ -13,7 +13,7 @@
                     </div>
                 </div>
                 <div class="col-lg-8">
-                    <img src="img/add.jpg" alt="">
+                    <img src="assets/img/add.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -51,10 +51,10 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="single-product-item">
                         <figure>
-                            <img src="img/products/img-9.jpg" alt="">
+                            <img src="assets/img/products/img-9.jpg" alt="">
                             <div class="p-status">new</div>
                             <div class="hover-icon">
-                                <a href="img/products/img-9.jpg" class="pop-up"><img src="img/icons/zoom-plus.png"
+                                <a href="assets/img/products/img-9.jpg" class="pop-up"><img src="assets/img/icons/zoom-plus.png"
                                         alt=""></a>
                             </div>
                         </figure>
@@ -71,7 +71,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-product-item">
                                 <figure>
-                                    <img src="img/products/img-2.jpg" alt="">
+                                    <img src="assets/img/products/img-2.jpg" alt="">
                                     <div class="p-status sale">sale</div>
                                 </figure>
                                 <div class="product-text">
@@ -85,11 +85,11 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-product-item">
                                 <figure>
-                                    <img src="img/products/img-3.jpg" alt="">
+                                    <img src="assets/img/products/img-3.jpg" alt="">
                                     <div class="p-status">new</div>
                                     <div class="hover-icon">
-                                        <a href="img/products/img-3.jpg" class="pop-up"><img
-                                                src="img/icons/zoom-plus.png" alt=""></a>
+                                        <a href="assets/img/products/img-3.jpg" class="pop-up"><img
+                                                src="assets/img/icons/zoom-plus.png" alt=""></a>
                                     </div>
                                 </figure>
                                 <div class="product-text">
@@ -103,7 +103,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-product-item">
                                 <figure>
-                                    <img src="img/products/img-6.jpg" alt="">
+                                    <img src="assets/img/products/img-6.jpg" alt="">
                                     <div class="p-status sale">sale</div>
                                 </figure>
                                 <div class="product-text">
@@ -117,10 +117,10 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-product-item">
                                 <figure>
-                                    <img src="img/products/img-1.jpg" alt="">
+                                    <img src="assets/img/products/img-1.jpg" alt="">
                                     <div class="hover-icon">
-                                        <a href="img/products/img-1.jpg" class="pop-up"><img
-                                                src="img/icons/zoom-plus.png" alt=""></a>
+                                        <a href="assets/img/products/img-1.jpg" class="pop-up"><img
+                                                src="assets/img/icons/zoom-plus.png" alt=""></a>
                                     </div>
                                 </figure>
                                 <div class="product-text">
@@ -136,10 +136,10 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-product-item">
                         <figure>
-                            <img src="img/products/img-5.jpg" alt="">
+                            <img src="assets/img/products/img-5.jpg" alt="">
                             <div class="p-status">new</div>
                             <div class="hover-icon">
-                                <a href="img/products/img-5.jpg" class="pop-up"><img src="img/icons/zoom-plus.png"
+                                <a href="assets/img/products/img-5.jpg" class="pop-up"><img src="assets/img/icons/zoom-plus.png"
                                         alt=""></a>
                             </div>
                         </figure>
@@ -154,10 +154,10 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-product-item">
                         <figure>
-                            <img src="img/products/img-4.jpg" alt="">
+                            <img src="assets/img/products/img-4.jpg" alt="">
                             <div class="p-status popular">popular</div>
                             <div class="hover-icon">
-                                <a href="img/products/img-4.jpg" class="pop-up"><img src="img/icons/zoom-plus.png"
+                                <a href="assets/img/products/img-4.jpg" class="pop-up"><img src="assets/img/icons/zoom-plus.png"
                                         alt=""></a>
                             </div>
                         </figure>
@@ -172,10 +172,10 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-product-item">
                         <figure>
-                            <img src="img/products/img-8.jpg" alt="">
+                            <img src="assets/img/products/img-8.jpg" alt="">
                             <div class="p-status popular">popular</div>
                             <div class="hover-icon">
-                                <a href="img/products/img-8.jpg" class="pop-up"><img src="img/icons/zoom-plus.png"
+                                <a href="assets/img/products/img-8.jpg" class="pop-up"><img src="assets/img/icons/zoom-plus.png"
                                         alt=""></a>
                             </div>
                         </figure>
@@ -190,10 +190,10 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-product-item">
                         <figure>
-                            <img src="img/products/img-10.jpg" alt="">
+                            <img src="assets/img/products/img-10.jpg" alt="">
                             <div class="p-status popular">popular</div>
                             <div class="hover-icon">
-                                <a href="img/products/img-10.jpg" class="pop-up"><img src="img/icons/zoom-plus.png"
+                                <a href="assets/img/products/img-10.jpg" class="pop-up"><img src="assets/img/icons/zoom-plus.png"
                                         alt=""></a>
                             </div>
                         </figure>
@@ -210,7 +210,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-product-item">
                                 <figure>
-                                    <img src="img/products/img-11.jpg" alt="">
+                                    <img src="assets/img/products/img-11.jpg" alt="">
                                     <div class="p-status sale">sale</div>
                                 </figure>
                                 <div class="product-text">
@@ -224,11 +224,11 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-product-item">
                                 <figure>
-                                    <img src="img/products/img-12.jpg" alt="">
+                                    <img src="assets/img/products/img-12.jpg" alt="">
                                     <div class="p-status">new</div>
                                     <div class="hover-icon">
-                                        <a href="img/products/img-12.jpg" class="pop-up"><img
-                                                src="img/icons/zoom-plus.png" alt=""></a>
+                                        <a href="assets/img/products/img-12.jpg" class="pop-up"><img
+                                                src="assets/img/icons/zoom-plus.png" alt=""></a>
                                     </div>
                                 </figure>
                                 <div class="product-text">
@@ -242,7 +242,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-product-item">
                                 <figure>
-                                    <img src="img/products/img-14.jpg" alt="">
+                                    <img src="assets/img/products/img-14.jpg" alt="">
                                     <div class="p-status sale">sale</div>
                                 </figure>
                                 <div class="product-text">
@@ -256,10 +256,10 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-product-item">
                                 <figure>
-                                    <img src="img/products/img-15.jpg" alt="">
+                                    <img src="assets/img/products/img-15.jpg" alt="">
                                     <div class="hover-icon">
-                                        <a href="img/products/img-15.jpg" class="pop-up"><img
-                                                src="img/icons/zoom-plus.png" alt=""></a>
+                                        <a href="assets/img/products/img-15.jpg" class="pop-up"><img
+                                                src="assets/img/icons/zoom-plus.png" alt=""></a>
                                     </div>
                                 </figure>
                                 <div class="product-text">
@@ -275,10 +275,10 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="single-product-item">
                         <figure>
-                            <img src="img/products/img-13.jpg" alt="">
+                            <img src="assets/img/products/img-13.jpg" alt="">
                             <div class="p-status">new</div>
                             <div class="hover-icon">
-                                <a href="img/products/img-13.jpg" class="pop-up"><img src="img/icons/zoom-plus.png"
+                                <a href="assets/img/products/img-13.jpg" class="pop-up"><img src="assets/img/icons/zoom-plus.png"
                                         alt=""></a>
                             </div>
                         </figure>
@@ -301,5 +301,4 @@
         </div>
     </section>
     <!-- Categories Page Section End -->
-    //nho them asset vao hinh anh nha Lan
 @endsection

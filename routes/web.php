@@ -24,3 +24,5 @@ Route::get('/checkout','HomeController@getCheckOut');
 
 Route::get('/cart','HomeController@getCart');
 
+Route::get('/contact','HomeController@getContact');
+

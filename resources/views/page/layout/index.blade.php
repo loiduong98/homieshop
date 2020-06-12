@@ -45,7 +45,7 @@
     
     @include('page.layout.header')
     <!-- Header End -->
-   @yield('content')
+    @yield('content')
     <!-- Footer Section Begin -->
     @include('page.layout.footer')
     <!-- Footer Section End -->

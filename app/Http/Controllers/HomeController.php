@@ -21,4 +21,7 @@ class HomeController extends Controller
     public function getCart(){
         return view('page.layout.cart');
     }
+    public function getContact(){
+        return view('page.layout.contact');
+    }
 }

@@ -10,7 +10,7 @@
                     </div>
                 </div>
                 <div class="col-lg-8">
-                    <img src="img/add.jpg" alt="">
+                    <img src="assets/img/add.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -128,8 +128,8 @@
                         <div class="payment-method">
                             <h3>Payment</h3>
                             <ul>
-                                <li>Paypal <img src="img/paypal.jpg" alt=""></li>
-                                <li>Credit / Debit card <img src="img/mastercard.jpg" alt=""></li>
+                                <li>Paypal <img src="assets/img/paypal.jpg" alt=""></li>
+                                <li>Credit / Debit card <img src="assets/img/mastercard.jpg" alt=""></li>
                                 <li>
                                     <label for="two">Pay when you get the package</label>
                                     <input type="radio" id="two">
