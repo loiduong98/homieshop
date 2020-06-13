@@ -10,19 +10,28 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="assets/img/slider-1.jpg" alt="slide-1">
-                <div class="carousel-caption d-none d-md-block">
-                    <!-- <h5>...</h5>
-                    <p>...</p> -->
+                <div class="carousel-caption d-none d-md-block caption">
+                    
+                        <h1>2019</h1>
+                        <h2>Lookbook.</h2>
+                        <a href="#" class="primary-btn">See More</a>
+                    
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="assets/img/slider-2.jpg" alt="slide-2">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption d-none d-md-block caption">
+                <h1>2019</h1>
+                        <h2>Lookbook.</h2>
+                        <a href="#" class="primary-btn">See More</a>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="assets/img/slider-3.jpg" alt="slide-3">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption d-none d-md-block caption">
+                <h1>2019</h1>
+                        <h2>Lookbook.</h2>
+                        <a href="#" class="primary-btn">See More</a>
                 </div>
             </div>
         </div>

@@ -1973,6 +1973,23 @@ ol {
 	cursor: pointer;
 	text-transform: uppercase;
 }
+.caption {
+	top: 50%!important;
+	bottom: 0!important;
+	transform: translateY(-50%)!important;
+}
+.carousel-caption.d-none.d-md-block.caption h1 {
+    font-weight: 700;
+    font-size: 120px;
+    color: #fff;
+}
+.carousel-caption.d-none.d-md-block.caption h2 {
+	color: #fff;
+	font-size: 100px;
+}
+
+
+
 
 /*---------------------
   Cart Total Page 
