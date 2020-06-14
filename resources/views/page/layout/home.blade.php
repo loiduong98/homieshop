@@ -11,11 +11,9 @@
             <div class="carousel-item active">
                 <img src="assets/img/slider-1.jpg" alt="slide-1">
                 <div class="carousel-caption d-none d-md-block caption">
-                    
                         <h1>2019</h1>
                         <h2>Lookbook.</h2>
                         <a href="#" class="primary-btn">See More</a>
-                    
                 </div>
             </div>
             <div class="carousel-item">
