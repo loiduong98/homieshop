@@ -13,22 +13,26 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::group(['prefix'=>'/'], function(){
+	Route::get('','HomeController@getLayout');
 
-Route::get('/','HomeController@getLayout');
+	Route::get('category','HomeController@getCategory');
 
-Route::get('/category','HomeController@getCategory');
+	Route::get('product-page','HomeController@getProductPage');
 
-Route::get('/product-page','HomeController@getProductPage');
+	Route::get('checkout','HomeController@getCheckOut');
 
-Route::get('/checkout','HomeController@getCheckOut');
+	Route::get('cart','HomeController@getCart');
 
-Route::get('/cart','HomeController@getCart');
-
-Route::get('/contact','HomeController@getContact');
-
-Route::get('/admin','AdminController@getLayout');
+	Route::get('contact','HomeController@getContact');
+});
 
 Route::group(['prefix'=>'admin'], function(){
+	
+	Route::group(['prefix'=>'/'], function(){
+		Route::get('','AdminController@getLayout');
+	});
+
 	Route::group(['prefix'=>'product'], function(){
 		Route::get('/','ProductController@getList');
 
@@ -39,11 +43,8 @@ Route::group(['prefix'=>'admin'], function(){
 		Route::post('edit/{id_product}','ProductController@postEdit');
 
 		Route::get('delete/{id_product}','ProductController@getDelete');
-
 	});
-});
 
-Route::group(['prefix'=>'admin'], function(){
 	Route::group(['prefix'=>'type_products'], function(){
 		Route::get('/','TypeProductController@getList');
 
@@ -54,10 +55,8 @@ Route::group(['prefix'=>'admin'], function(){
 		Route::post('edit/{id_typeproduct}','TypeProductController@postEdit');
 
 		Route::get('delete/{id_typeproduct}','TypeProductController@getDelete');
-
 	});
-});
-Route::group(['prefix'=>'admin'], function(){
+
 	Route::group(['prefix'=>'bill'], function(){
 		Route::get('/','BillController@getList');
 
@@ -68,10 +67,8 @@ Route::group(['prefix'=>'admin'], function(){
 		Route::post('edit/{id_bills}','BillController@postEdit');
 
 		Route::get('delete/{id_bills}','BillController@getDelete');
-
 	});
-});
-Route::group(['prefix'=>'admin'], function(){
+
 	Route::group(['prefix'=>'news'], function(){
 		Route::get('/','NewsController@getList');
 
@@ -82,7 +79,5 @@ Route::group(['prefix'=>'admin'], function(){
 		Route::post('edit/{id_news}','NewsController@postEdit');
 
 		Route::get('delete/{id_news}','NewsController@getDelete');
-
 	});
 });
-
